@@ -1,5 +1,4 @@
 import './index.scss'
-import LogoT from '../../assets/images/download.png'
 import { Link } from 'react-router-dom'
 import { useEffect, useState } from 'react'
 import AnimatedLetters from '../AnimatedLetters'

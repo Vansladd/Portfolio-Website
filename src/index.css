@@ -3,6 +3,9 @@ html{
 }
 
 body {
+  transform: scale(1.5); /* 150% zoom */
+  transform-origin: top left;
+  width: 66.67%; /* Adjust width to prevent horizontal scroll */
   margin: 0;
   font: 300 11px/1.4 'Helvetica Neue', 'sans-serif';
   color: #EAEAEA;
